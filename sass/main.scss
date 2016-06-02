@@ -1,0 +1,29 @@
+// *{outline: 1px solid red;}
+$inline:inline;
+$none:none;
+$color_gris:#F1F1F1;
+
+.contenedor{
+	width: 960px;
+	margin: 0px auto;
+}
+.pad-10{
+	padding:10px;
+}
+body{
+	color:#444;
+}
+.bg-gris{
+	background-color:$color_gris;
+	height: 40px;
+	width:100%;
+}
+
+.menui,p{
+	display:$inline;
+	list-style-type: none;
+	margin:10px;
+}
+.inline{
+	display:$inline;
+}

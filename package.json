@@ -1,0 +1,26 @@
+{
+  "name": "examen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mabe1016@github.com/mabe1016/EXAMEN_INDIVIDUAL-Accessories.git"
+  },
+  "author": "mariabelen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mabe1016/EXAMEN_INDIVIDUAL-Accessories/issues"
+  },
+  "homepage": "https://github.com/mabe1016/EXAMEN_INDIVIDUAL-Accessories#readme",
+  "devDependencies": {
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.1"
+  }
+}
