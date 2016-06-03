@@ -1,3 +1,6 @@
+* {
+  outline: 1px solid red; }
+
 .contenedor {
   width: 960px;
   margin: 0px auto; }
